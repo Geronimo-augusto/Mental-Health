@@ -1,0 +1,8 @@
+Este projeto é o desenvolvimento de uma API RESTful em Java com Spring Boot para uma plataforma de monitoramento de bem-estar e saúde mental. 
+A solução permite o cadastro de pacientes , o registro diário de seu humor, ansiedade e sono e o gerenciamento de profissionais de saúde e consultas.
+
+| Nome Completo | RM |
+| :--- | :--- |
+| (Geonimo Augusto) | (RM 557170) |
+| (Victor Augusto ) | (RM 555469) |
+| (Murilo Cordeiro) | (RM 556727) |
