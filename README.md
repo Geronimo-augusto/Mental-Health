@@ -21,9 +21,9 @@ Este projeto se conecta ao tema "Futuro do Trabalho" e às ODS (Objetivos de Des
 
 | Nome Completo | RM |
 | :--- | :--- |
-| (Nome do Aluno 1) | (RM do Aluno 1) |
-| (Nome do Aluno 2) | (RM do Aluno 2) |
-| (Nome do Aluno 3) | (RM do Aluno 3) |
+| (Geonimo Augusto) | (RM 557170) |
+| (Victor Augusto ) | (RM 555469) |
+| (Murilo Cordeiro) | (RM 556727) |
 
 ## 4. Tecnologias Utilizadas
 
